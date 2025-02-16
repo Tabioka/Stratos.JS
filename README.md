@@ -22,8 +22,29 @@
 - Node.js (v16 or higher)
 - npm or yarn
 
-### Install StratosJS globally:
+# Documentation
+StratosJS comes with full documentation, including:
 
-```bash
-yarn global add stratosjs 
+Guides: Step-by-step tutorials on setting up and using StratosJS.
+API Reference: Detailed descriptions of built-in methods and utilities.
+Examples: Real-world examples to help you get started.
+You can view the full documentation at docs.stratosjs.com.
+
+# Contributing
+We welcome contributions! If you'd like to contribute to StratosJS, please follow these steps:
+
+# Fork the repository.
+Create a new branch (git checkout -b feature/your-feature).
+Make your changes and commit them (git commit -am 'Add new feature').
+Push to the branch (git push origin feature/your-feature).
+Open a pull request.
+Please ensure that your code follows our coding standards.
+
+# License
+StratosJS is licensed under the MIT License. See the LICENSE file for more details.
+
+# Support
+If you encounter any issues or have questions, feel free to open an issue in the GitHub repository.
+
+You can also join the community on Discord at StratosJS Community.
 
