@@ -25,4 +25,5 @@
 ### Install StratosJS globally:
 
 ```bash
-npm install -g stratosjs
+yarn global add stratosjs 
+
